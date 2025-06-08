@@ -1,2 +1,5 @@
-# clothing neural network
-neural network model to classify images of clothing
+# Clothing Neural Network
+
+Neural Network to Classify Images of Clothing
+
+- FashionNN.py consists of all the code, which imports the datasets, processes the data, trains the model, and evaluates it.
